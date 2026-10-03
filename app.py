@@ -2,7 +2,7 @@
 Website Powder Shade Alignment (Streamlit)
 
 Cara menjalankan:
-    pip install -r requirements.txt
+    pip install -r requirements (1).txt
     streamlit run app.py
 """
 import numpy as np
