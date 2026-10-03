@@ -1,9 +1,0 @@
-streamlit>=1.50
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-scikit-learn>=1.4
-scikit-image
-openpyxl
