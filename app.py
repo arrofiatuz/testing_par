@@ -1,6 +1,3 @@
-"""
-Website Powder Shade Alignment (Streamlit)
-
 pip install -r requirements (1).txt
 streamlit run app.py
 import numpy as np
